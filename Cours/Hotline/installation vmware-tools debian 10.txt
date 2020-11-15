@@ -1,0 +1,8 @@
+installation vmware tools en mode root
+
+apt-get install open-vm-tools
+
+
+verification
+
+/usr/bin/vmware-toolbox-cmd -v

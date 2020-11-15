@@ -1,0 +1,3 @@
+la base GLPI sauvegardée
+
+/var/www/glpi/files/_dumps/

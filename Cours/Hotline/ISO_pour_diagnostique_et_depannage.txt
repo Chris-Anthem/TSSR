@@ -1,0 +1,177 @@
+Télécharger l'ISO à cette adresse :
+
+https://www.trucnet.com/winpe-10-8-sergei-strelec-x86x64/
+
+Disque de démarrage Windows 10 et 8 PE – pour la maintenance d’ordinateurs,
+disques durs et partitions, sauvegarde et restauration de disques et partitions,
+diagnostic informatique, récupération de données, installation de Windows.
+
+Composition de l’assemblage:
+WinPE10x86
+WinPE10x64
+WinPE8x86
+WinPE8x86 (Native)
+
+Liste des programmes :
+
+– Sauvegarde et restauration
+Backup and restore Acronis True Image 2021 Build 30480
+Acronis True Image 2019 Build 17750
+Acronis True Image 2017 Build 8058
+Acronis True Image 2014 Build 6673
+Acronis Backup Advanced 11.7.50230
+EASEUS Todo Backup 12.8
+Active Disk Image 9.5.2.0
+StorageCraft Recovery Environment 5.2.5.37836
+FarStone Recovery Manager 10.10
+R-Drive Image 6.3 Build 6306
+Veritas System Recovery 21.0.1.61051
+Symantec Ghost 12.0.0.11197
+TeraByte Image for Windows 3.41
+AOMEI Backupper 6.0
+Isoo Backup 4.2.2.760
+Drive SnapShot 1.48.0.18828
+Macrium Reflect 7.2.4473
+Disk2vhd 2.01
+Vhd2disk v0.2
+
+– Disque dur
+Disk Management, System
+Acronis Disk Director 12.5 Build 163
+EaseUS Partition Master 14.5
+Paragon Hard Disk Manager 15 10.1.25.1137
+MiniTool Partition Wizard 12.1
+AOMEI Partition Assistant 8.10
+AOMEI Dynamic Disk Manager 1.2.0
+Macrorit Disk Partition Expert 5.3.9
+DiskGenius 5.2.1 Build 941
+Active Partition Manager 6.0.15
+DriveClone 11.10 Build 20150827 (WinPE10)
+EaseUS Disk Copy 3.5
+Defraggler 2.22.995
+Auslogics Disk Defrag 8.0.24.0
+O&O Defrag 23.0
+HDD Low Level Format Tool 4.40
+Active KillDisk 12.0.25
+Diskpart GUI Micro 1.5
+Active Disk Editor 7.0.19
+
+– Diagnostic
+HD Tune 5.75
+Check Disk GUI
+Victoria 5.28
+HDD Scan 4.1 Build 0.29
+Hard Disk Sentinel 5.61 Build 11463
+Western Digital Data Lifeguard Diagnostics 1.37.0
+CrystalDiskInfo 8.8.7
+CrystalDiskMark 7.0.0h
+Parkdale 3.02
+AIDA64 Extreme Edition 6.25.5400
+BurnInTest 9.1 Build 1008
+PerformanceTest 10.0 Build 1008
+ATTO Disk Benchmark 4.00.0f2
+CPU-Z 1.92.2
+HWiNFO 6.30 Build 4240
+PassMark MonitorTest 4.0 Build 1001
+OCCT Perestroika 6.2.2
+Keyboard Test Utility 1.4.0
+HDD Regenerator 2011
+IsMyLcdOK 3.71
+GSmartControl 1.1.3
+TxBENCH 0.96 beta
+Drevitalize 4.01
+
+– Programmes réseau
+Opera
+Firefox
+PENetwork 0.59.B12
+TeamViewer 12,13,15
+Ammyy Admin 3.9
+AeroAdmin 4.7 Build 3305
+AnyDesk 6.0.8
+Supremo 4.1.3.2348
+µTorrent 3.5.5
+FileZilla 3.50.0
+Internet Download Accelerator 6.18.1.1633
+PuTTY 0.73
+FtpUse 2.2
+OpenVPN 2.4.9
+UltraVNC 1.2.3.0
+TightVNC 2.8.27
+Radmin 3.5.2.1
+Radmin VPN l.1.3970.4
+Advanced IP Scanner 2.5.3850
+Advanced Port Scanner 2.5.3869
+ZOC Terminal 7.25.5
+
+– Récupération de données
+R-Studio 8.13 Build 176095
+Active File Recovery 20.0.5
+Active Partition Recovery 20.0.2
+Active UNDELETE 17.0.07
+Unformat 10.0.1
+MiniTool Power Data Recovery 9.0
+Runtime GetDataBack 5.55
+Runtime GetDataBack for NTFS 4.33
+Runtime GetDataBack for FAT 4.33
+EaseUS Data Recovery Wizard 13.6
+O&O DiskRecovery 14.1.145
+Hetman Partition Recovery 3.2
+TestDisk 7.2
+
+– Autres programmes
+Windows Login Unlocker 1.5
+OO UserManager 1.0.1.5091
+Active Password Changer 10.0.1.0
+Reset Windows Password 9.0.0.905
+PCUnlocker 5.2
+Simplix Password Reset 5.1
+UltraISO 9.7.5.3716
+PowerISO 7.7
+Total Commander 9.00
+FastStone Capture 7.7
+IrfanView 4.38
+STDU Viewer
+PDF-XChange Editor
+SoftMaker Office
+Microsoft Office 2007
+Bootice 1.3.4
+Unlocker 1.9.2
+7-ZIP
+WinNTSetup 4.2.3
+78Setup 2.4 (author conty9)
+Double Driver 4.1.0
+Imagex
+GImageX 2.1.1
+Media Player Classic
+EasyBCD 2.4.0.237
+EasyUEFI 4.0
+Far Manager 3.0 Build 5665
+BitLocker
+Dism++ 10.1.1001.10
+WinHex 19.9
+CIHexViewer 2.0
+TeraCopy 2.3
+FastCopy 3.85
+UltraSearch 2.3.2.537
+Everything 1.4.1.992
+Linux Reader 4.6.3.0
+WinDirStat 1.1.2
+TreeSize
+Recover Keys 11.0.4.233
+HardLink ShellExtension 3.9.2.4
+NirLauncher 1.23.30
+Remote Registry Editor
+Registry Editor PE
+Process Killer 1.5.0.6
+Runtime Captain Nemo 7.00
+OemKey
+ShowKeyPlus 1.0.7060
+VMware Tools 11.0.6 build 15940789
+Windows Recovery Environment (WinPE 10)
+
+Version : 2020.09.21
+Langue : Anglais
+Taille : 4.24 Go
+Configuration :
+– Processeur (x32/x64 Bits) : 1 Ghz
